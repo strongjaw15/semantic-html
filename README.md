@@ -2,7 +2,7 @@
 
 ## Description
 
-The webpage here was pre-existing, but did not use semantic tags. I wanted to update the tags to their apropriate semantic counterparts to increase the accessibility and search-engine compatibility of this page. Now this page is more accessible to screen readers and other accessibility tools, and is also more friendly towards web searches. I learned about semantic HTML tags while working on this project!
+The webpage here was pre-existing, but did not use semantic HTML. I wanted to update the tags to their appropriate semantic counterparts to increase the accessibility and search-engine compatibility of this page. Now this page is more usable for screen readers and other accessibility tools, and is also more friendly towards web searches. I learned about semantic HTML tags while working on this project!
 
 ## Visuals
 
