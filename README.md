@@ -8,4 +8,8 @@ The webpage here was pre-existing, but did not use semantic tags. I wanted to up
 
 <-- screenshot goes here -->
 
+## Credits
+
+The initial webpage was supplied in the University of Minnesota Web Development Bootcamp.
+
 ## License
